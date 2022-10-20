@@ -6,5 +6,6 @@ def main(s):
     Returns:
         bool: answer
     """
-    
-    return
+    return s.islower()
+
+print(main("code school pyThon"))
