@@ -6,5 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    return s.capitalize()
+
+print(main("telefon kompyuter"))
