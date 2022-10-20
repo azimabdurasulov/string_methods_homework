@@ -6,6 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    return s.index("u")
+    return s.index("x")
 
-print(main("code school.uz"))
+print(main("Mobile tpye xiomi"))
